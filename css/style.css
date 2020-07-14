@@ -1,0 +1,26 @@
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+
+.jumbotron{
+	background: #9575cd;
+	color: #fff;
+}
+.row-header{
+
+}
+.row-content{
+	margin: 0px auto;
+	padding: 30px 0px 30px 0px;
+	border-top: 1px solid rgba(0,0,0,.1) ;
+}
+.footer{
+	background: #d1c4e9;
+	padding: 20px 0px;
+	margin: 0px auto;
+}
